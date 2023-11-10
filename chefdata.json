@@ -1,0 +1,58 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "Gordon Ramsay",
+      "image": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Acclaimed chef and restaurateur known for his French-inspired cuisine and emphasis on technique and precision.",
+      "experience": "25+ years",
+      "recipes": 150,
+      "likes": 10000
+    },
+    {
+      "id": 2,
+      "name": "Jamie Oliver",
+      "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Founder of the renowned Chez Panisse restaurant and pioneer of the farm-to-table movement in California cuisine.",
+      "experience": "20+ years",
+      "recipes": 200,
+      "likes": 7500
+    },
+    {
+      "id": 3,
+      "name": "Ina Garten",
+      "image": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+      "description": "Chef and founder of the Momofuku restaurant group, known for his innovative take on Asian-American cuisine.",
+      "experience": "30+ years",
+      "recipes": 100,
+      "likes": 5000
+    },
+    {
+      "id": 4,
+      "name": "Anthony Bourdain",
+      "image": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Celebrity chef and restaurateur known for his signature catchphrases and emphasis on bold flavors in his New Orleans-inspired cuisine.",
+      "experience": "15+ years",
+      "recipes": 75,
+      "likes": 8000
+    },
+    {
+      "id": 5,
+      "name": "Nigella Lawson",
+      "image": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Renowned baker and chef known for her artisanal breads and pastries, and for founding the La Brea Bakery and Mozza restaurants.",
+      "experience": "25+ years",
+      "recipes": 120,
+      "likes": 6000
+    },
+    {
+      "id": 6,
+      "name": "Bobby Flay",
+      "image": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "French-American chef and restaurateur known for his modern French cuisine and Michelin-starred restaurants.",
+      "experience": "30+ years",
+      "recipes": 250,
+      "likes": 9000
+    }
+  ]
+}
